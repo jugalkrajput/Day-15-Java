@@ -1,0 +1,8 @@
+1. Command to get list of database
+show databases;
+2. Command to create database
+create database database_name;
+3. Command to remove database
+drop database database_name;
+4. Command to use database
+use database_name;

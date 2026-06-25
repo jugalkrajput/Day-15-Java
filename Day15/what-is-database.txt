@@ -1,0 +1,9 @@
+Database
+========
+A database is an organized collection of data that can be stored, managed(update and delete), and retrieved easily.
+
+Key Points:
+1. Think of it as a container for data.
+2. Data is usually organized in tables (rows and columns) if it’s a relational database.
+3. Databases help you store large amounts of information in a structured way.
+

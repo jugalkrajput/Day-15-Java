@@ -1,0 +1,13 @@
+Database server
+===============
+It is a software/application
+It manages database
+This software is called RDBMS(relational database management systems)
+Few RDBMS are as follows
+1)MySql 
+2)Oracle
+3)PostgreSql
+4)DB2
+5)MS-SQL server
+etc
+This software is commonly called an RDBMS (Relational Database Management System), because it stores data in tables with relations between them.

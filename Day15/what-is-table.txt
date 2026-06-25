@@ -1,0 +1,21 @@
+Table
+=====
+A table is a structure inside a database used to store data in rows and columns.
+
+Key Features:
+1. Rows represent records (individual pieces of data).
+2. Columns represent fields (attributes/properties of the data).
+3. Every table has a name (e.g., Employees, Products).
+
+Table name is Product
+------------------------------
+pid | name    | brand |  price
+------------------------------
+101 | Mouse   |  HP   |  1200 
+------------------------------
+102 | Laptop  |  Dell |  67000 
+------------------------------
+Above table has following 4 columns
+1)pid 2)name 3)brand 4)price
+It has two records(rows)
+

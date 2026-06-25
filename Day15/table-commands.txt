@@ -1,0 +1,24 @@
+Table commands
+==============
+1. Command to get list of tables inside current database
+show tables;
+2. Command to create table
+create table product(pid int primary key,name varchar(30) not null,brand varchar(30),price int);
+3. Command to see details of table
+desc table_name;
+4. Command to change table structure
+alter table product modify brand varchar(30) not null;
+5. Command to remove table
+drop table table_name;
+6. Command to insert record in table
+insert into product(pid,name,brand,price) values(101,'Mouse','HP',1200);
+or
+insert into product values(101,'Mouse','HP',1200);
+7. Command to fetch/get records from table
+select * from product; 
+8. Command to update record
+update product set price=4500 where pid=103;
+9. Command to delete record
+delete from product;
+or
+delete from product where pid=101;
